@@ -1,0 +1,11 @@
+# Archivos temporales de Visual Studio
+.vs/
+bin/
+obj/
+
+# Archivos de usuario
+*.user
+*.suo
+
+# Publicaciones locales
+publish/
